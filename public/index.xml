@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Doma Nodes</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Doma Nodes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© [Doma Nodes](https://domanodes.com) 2024.</copyright>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elys Network</title>
-      <link>https://example.org/testnets/elys-network/</link>
+      <link>http://localhost:1313/testnets/elys-network/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/testnets/elys-network/</guid>
+      <guid>http://localhost:1313/testnets/elys-network/</guid>
       <description></description>
     </item>
   </channel>
