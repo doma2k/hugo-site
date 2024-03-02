@@ -1,0 +1,39 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Doma Nodes'
+theme = 'risotto'
+copyright = "© [Doma Nodes](https://domanodes.com) 2024."
+paginate = 3
+sectionPagesMenu = "main"
+ignoreErrors = ["error-remote-getjson"]
+enableInlineShortcodes = true
+
+[params]
+noindex = false
+
+[params.theme]
+palette = "base16-dark"
+
+# Sidebar: about/bio
+[params.about]
+description = "Contacts:"
+
+# Sidebar: social links
+# Available icon sets:
+# * FontAwesome 6 <https://fontawesome.com/> ('fa-brands', 'fa-normal', or 'fa-solid' for brands)
+# * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/doma2k"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-telegram"
+title = "Telegram"
+url = "https://t.me/domanodes"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-discord"
+title = "Discord"
+url = "https://discord.com/users/domanodes"
